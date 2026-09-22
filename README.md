@@ -1,24 +1,21 @@
-## Hi there 👋
+# Micah Silverman
 
-<!--
-**dogeared/dogeared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Director of AI Acceleration at [Snyk](https://snyk.io).
+I build things that teach you by making you use them.
 
-Here are some ideas to get you started:
+**Currently**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[MERIDIAN](https://meridian-claude.dogeared.dev)** — learn Claude Code by flying a failing
+  spaceship. Write a real Skill, dispatch a real Agent, and find out where its line is.
+- **[aisecurity.engineer](https://aisecurity.engineer)** — six-module AI security curriculum with
+  real credentialing. 250 engineers certified since June.
+- **[tnra.app](https://tnra.app)**
 
-- 🔭 I’m currently working on building https://aisecurity.engineer & https://meridian-claude.dogeared.dev & https://tnra.app
-- 🌱 I’m currently learning how I can use agents to automate tasks that fall through my ADHD squirrel brain
-- 👯 I’m looking to collaborate on fun Java & Security projects
-- 🤔 I’m looking for help with tips, tricks, tools, learnings for rolling with my ADHD brain
-- 💬 Ask me about my current ADHD and AI practices
-- 📫 How to reach me: hit me up on linkedin
-- ⚡ Fun fact: I once hacked back a hacker that was trying to remote control my machine
+Thirty years an engineer, the last eleven public-facing. I've spoken at DEF CON, the AI Engineer
+World's Fair, KCDC and JCON, co-authored *Mastering Enterprise JavaBeans 3.0*, and written for
+2600 Magazine — including the investigation that became my talk "How I Became a Repo Man for a Day."
+
+Ask me about game-based developer education, prompt injection, or the time I hacked back someone
+trying to remote-control my machine.
+
+📫 [LinkedIn](https://linkedin.com/in/micahsilverman) · me@dogeared.dev
