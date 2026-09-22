@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on building https://aisecurity.engineer & https://meridian-claude.dogeared.dev & https://tnra.app
+- 🌱 I’m currently learning how I can use agents to automate tasks that fall through my ADHD squirrel brain
+- 👯 I’m looking to collaborate on fun Java & Security projects
+- 🤔 I’m looking for help with tips, tricks, tools, learnings for rolling with my ADHD brain
+- 💬 Ask me about my current ADHD and AI practices
+- 📫 How to reach me: hit me up on linkedin
+- ⚡ Fun fact: I once hacked back a hacker that was trying to remote control my machine
